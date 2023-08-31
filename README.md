@@ -70,3 +70,6 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Developed by Andres Solorio (https://github.com/ARS2989/PWA-Text-Editor) - Creating a user-friendly text editor application to enhance productivity for developers.
+
+Unsuccessful Heroku Deployment: https://git.heroku.com/pwa-text-editor2989.git
+https://pwa-text-editor2989-e06564e06b91.herokuapp.com/
