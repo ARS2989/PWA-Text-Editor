@@ -61,3 +61,14 @@ plugins: [
     ]
   })
 ]
+const { GenerateSW } = require('workbox-webpack-plugin');
+
+module.exports = {
+  // ... other webpack configuration settings ...
+
+  plugins: [
+    new GenerateSW({
+      // Configuration options for Workbox
+      // ...
+    }),
+    // ... other plugins 
