@@ -1,21 +1,13 @@
 # PWA-Text-Editor
 
-Text Editor Web Application
-Table of Contents
-User Story
-Acceptance Criteria
-Technologies Used
-Installation
-Usage
-Contributing
-License
-User Story
-md
-Copy code
+## User Story:
 AS A developer
 I WANT to create notes or code snippets with or without an internet connection
 SO THAT I can reliably retrieve them for later use
-Acceptance Criteria
+
+
+## Acceptance Criteria
+
 md
 Copy code
 GIVEN a text editor web application
