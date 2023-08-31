@@ -35,7 +35,7 @@ import WebpackPwaManifest from 'webpack-pwa-manifest'
 // ES5
 var WebpackPwaManifest = require('webpack-pwa-manifest')
  
-...
+
  
 plugins: [
   new WebpackPwaManifest({
